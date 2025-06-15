@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Time-Series-Forecasting
 =======
 # Time Series Forecasting - Airline Passenger Prediction
@@ -59,4 +58,3 @@ Further optimization of the model parameters.
 Exploration of additional time series forecasting methods.
 
 Integration of external factors that may influence passenger numbers.
->>>>>>> 146b25a (Add project files)
