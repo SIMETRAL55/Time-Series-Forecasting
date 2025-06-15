@@ -1,5 +1,3 @@
-# Time-Series-Forecasting
-=======
 # Time Series Forecasting - Airline Passenger Prediction
 
 This project focuses on forecasting airline passenger numbers using Time Series Analysis. The primary goal is to predict future passenger counts based on historical data.
